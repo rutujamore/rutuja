@@ -1,6 +1,4 @@
 #includce<stdio.h>
 voidmain()
-{
-   printf("Hello World...");
-printf("hello")
+{printf("Hello World...");
 }
