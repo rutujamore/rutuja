@@ -1,5 +1,5 @@
-# include <stdio.h>v
-void main()
+# include<stdio.h>v
+voidmain()
 {
    printf("Hello World...");
 }
